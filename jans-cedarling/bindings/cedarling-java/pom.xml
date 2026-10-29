@@ -186,7 +186,7 @@
             <plugin>
                 <groupId>com.googlecode.maven-download-plugin</groupId>
                 <artifactId>download-maven-plugin</artifactId>
-                <version>1.9.0</version>
+                <version>1.13.0</version>
                 <executions>
 
                     <!-- Step 1: download + rename the shared library (.so) -->
@@ -362,7 +362,7 @@
                     <plugin>
                         <groupId>com.googlecode.maven-download-plugin</groupId>
                         <artifactId>download-maven-plugin</artifactId>
-                        <version>1.9.0</version>
+                        <version>1.13.0</version>
                         <executions>
                             <!-- Download the Kotlin-bindings zip and unpack it in-place
                                  (equivalent to: wget zip && unzip zip -d $KOTLIN_DIR && rm zip) -->
