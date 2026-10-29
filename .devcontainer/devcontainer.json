@@ -1,0 +1,21 @@
+{
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "terminal.integrated.env.linux": {
+                    "GIT_COMMITTER_NAME": null,
+                    "GIT_COMMITTER_EMAIL": null
+                }
+            }
+        }
+    },
+    "features": {
+        "ghcr.io/devcontainers/features/git-lfs:1": {}
+    },
+    "name": "Jans documentation",
+    "image": "mcr.microsoft.com/devcontainers/python:1-3.12-bookworm",
+    "postCreateCommand": "bash .devcontainer/setup.sh",
+    "forwardPorts": [
+        8000
+    ]
+}
