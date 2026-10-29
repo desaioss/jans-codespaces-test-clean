@@ -42,7 +42,7 @@
 
 		<rest-assured.version>5.0.1</rest-assured.version>
 		<testng.version>7.10.2</testng.version>
-		<mockito.version>5.14.2</mockito.version>
+		<mockito.version>5.24.0</mockito.version>
 		<snake.version>2.0</snake.version>
 		<jupiter.version>5.7.0</jupiter.version>
 		<cucumber.version>3.8.0</cucumber.version>
