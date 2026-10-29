@@ -1,4 +1,4 @@
-setuptools>=83.0.0
+setuptools>=84.2.1
 pyasn1==0.6.4
 ruamel.yaml>=0.16.5
 sqlalchemy==2.0.49
