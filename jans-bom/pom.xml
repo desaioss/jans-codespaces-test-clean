@@ -24,7 +24,7 @@
 		<httpcore.version>4.4.16</httpcore.version>
 		<httpclient.version>4.5.14</httpclient.version>
 
-		<resteasy.version>6.2.12.Final</resteasy.version>
+		<resteasy.version>7.0.5.Final</resteasy.version>
 		<grpc.version>1.78.0</grpc.version>
 		<grpc-bridge.version>1.0.0.Final</grpc-bridge.version>
 		<richfaces.version>4.5.19-gluu.Final</richfaces.version>
