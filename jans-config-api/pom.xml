@@ -40,7 +40,7 @@
 		<smallrye.metrics.version>4.0.0-RC1</smallrye.metrics.version>
 		<org.jboss.resteasy.client.microprofile.version>4.7.5.Final</org.jboss.resteasy.client.microprofile.version>
 
-		<rest-assured.version>5.0.1</rest-assured.version>
+		<rest-assured.version>6.3.0</rest-assured.version>
 		<testng.version>7.10.2</testng.version>
 		<mockito.version>5.14.2</mockito.version>
 		<snake.version>2.0</snake.version>
